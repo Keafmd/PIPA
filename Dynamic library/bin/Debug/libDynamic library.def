@@ -1,0 +1,5 @@
+EXPORTS
+    DllMain@12 @1
+    SomeFunction @2
+    pow2 @3
+    upstr @4

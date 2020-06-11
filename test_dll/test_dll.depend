@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591413278 source:c:\users\ÕÂºØÁú\documents\dll²âÊÔ\test_dll\test_dll.cpp
+	<windows.h>
+	"simple.h"
+
+1591412734 c:\users\ÕÂºØÁú\documents\dll²âÊÔ\test_dll\simple.h
+	<windows.h>
+
