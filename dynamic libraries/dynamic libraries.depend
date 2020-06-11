@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1591444511 source:d:\项目\dynamic libraries\simple.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"simple.h"
+
+1591444511 d:\项目\dynamic libraries\simple.h
+	<windows.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1591444802 source:d:\项目\test_dll\main.c
+	<windows.h>
+	"simple.h"
+
+1591444511 d:\项目\test_dll\simple.h
+	<windows.h>
+
+1591444802 source:d:\项目\procedure\test_dll\main.c
+	<windows.h>
+	"simple.h"
+
+1591444511 d:\项目\procedure\test_dll\simple.h
+	<windows.h>
+
